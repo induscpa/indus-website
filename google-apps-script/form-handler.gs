@@ -67,7 +67,7 @@ function doPost(e) {
       var clientBody = "Hello " + name + ",\n\n" +
         "Thank you for reaching out to Indus Canada CPA. We have received your inquiry regarding " + service + ".\n\n" +
         "Our team will review your message and get back to you within 1 business day.\n\n" +
-        "If you have an urgent matter, please call us at +1 (647) 819-0663.\n\n" +
+        "If you have an urgent matter, please call us at +1 (800) 897-1148.\n\n" +
         "Best regards,\n" +
         "Indus Canada CPA Team\n" +
         "Unit #17 A, 7033 Telford Way, Mississauga ON L5S 1V4\n" +
@@ -80,7 +80,7 @@ function doPost(e) {
         '<p>Hello <strong>' + name + '</strong>,</p>' +
         '<p>Thank you for reaching out to us. We have successfully received your inquiry regarding <strong>' + service + '</strong>.</p>' +
         '<p>One of our team members will review your details and get back to you within 1 business day.</p>' +
-        '<p>If your matter is urgent, please don\'t hesitate to call us directly at <strong>+1 (647) 819-0663</strong>.</p>' +
+        '<p>If your matter is urgent, please don\'t hesitate to call us directly at <strong>+1 (800) 897-1148</strong>.</p>' +
         '<br>' +
         '<p>Best regards,<br><strong>Indus Canada CPA Team</strong></p>' +
         '<hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">' +
